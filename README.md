@@ -1,0 +1,1 @@
+it is about simple and travel website and my first project as a develop i want to hosp my website to see how it looks like. i made a folder name project and it has 2 more folders inside of it that are one css and image and 3 files one in index.html about.html contact.html which are also inside of project folder
